@@ -1,0 +1,32 @@
+{
+    "C1": {
+        "name": "IQ",
+        "type": "benefit",
+        "weight": 4,
+        "result": 1
+    },
+    "C2": {
+        "name": "MTK",
+        "type": "benefit",
+        "weight": 4,
+        "result": 0.8
+    },
+    "C3": {
+        "name": "IPA",
+        "type": "benefit",
+        "weight": 4,
+        "result": 1
+    },
+    "C4": {
+        "name": "IPS",
+        "type": "benefit",
+        "weight": 4,
+        "result": 1
+    },
+    "C5": {
+        "name": "PKN",
+        "type": "benefit",
+        "weight": 4,
+        "result": 1
+    }
+}
